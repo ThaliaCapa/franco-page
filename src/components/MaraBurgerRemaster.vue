@@ -38,7 +38,7 @@
 
     <div class="opciones">
       <h2>¡Más de 38 años ofreciendo el Autentico Sabor de Calle!</h2>
-      <a href="https://api.whatsapp.com/send?phone=584246743776&text=%C2%A1Hola!%20Vengo%20de%20Instagram%20y%20deseo%20realizar%20un%20pedido%20%E2%9D%A4%EF%B8%8F" target="_blank">
+      <a href="https://api.whatsapp.com/send?phone=584129199367&text=%C2%A1Hola!%20Vengo%20de%20Instagram%20y%20deseo%20realizar%20un%20pedido%20%E2%9D%A4%EF%B8%8F" target="_blank">
         <div class="opcion"><h3>WhatsApp</h3><p>Atención al cliente - delivery - Pick up</p></div>
       </a>
       <a href="https://drive.google.com/file/d/1fsuFp0ZyIXj1nhlO1X3zyqO_YKBGSrXU/view" target="_blank">
@@ -47,10 +47,10 @@
       <a href="https://drive.google.com/file/d/1Imy_U4RCKF476rfz1y0vcpj2PK8g_ktW/view" target="_blank">
         <div class="opcion"><h3>Promociones</h3><p>Consulta de promociones activas</p></div>
       </a>
-      <a href="https://api.whatsapp.com/send?phone=584246282551&text=%C2%A1Hola!%20%C2%BFC%C3%B3mo%20estas%3F%20Vengo%20de%20instagram%20y%20me%20gustar%C3%ADa%20conocer%20informaci%C3%B3n%20acerca%20del%20carrito%20para%20eventos%2C%20gracias.%20%F0%9F%98%80" target="_blank">
+      <a href="https://api.whatsapp.com/send?phone=584129199367&text=%C2%A1Hola!%20%C2%BFC%C3%B3mo%20estas%3F%20Vengo%20de%20instagram%20y%20me%20gustar%C3%ADa%20conocer%20informaci%C3%B3n%20acerca%20del%20carrito%20para%20eventos%2C%20gracias.%20%F0%9F%98%80" target="_blank">
         <div class="opcion"><h3>Mara Eventos</h3><p>Información del carrito para eventos</p></div>
       </a>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfyhya8w0UFibcRsnyitHhn--n_0XM4Q855vffC_AtTw4Ifog/viewform" target="_blank">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScESFE7gz0krpFhMz6C-oxBkOpv63Kdswieb7r2XVKnAee1fQ/viewform?usp=publish-editor" target="_blank">
         <div class="opcion"><h3>Comparte tu Experiencia</h3><p>Deja comentarios y solicitudes</p></div>
       </a>
     </div>
